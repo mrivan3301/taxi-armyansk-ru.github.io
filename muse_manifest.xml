@@ -1,0 +1,44 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="taxi-krym-armyans.ru" resolutions="1x" timestamp="1495968620648">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="259627514" ref="index"/>
+    <file name="iefonts_index.css" crc="75504143" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="form_check.php" crc="474517188" ref="index"/>
+    <file name="form_throttle.php" crc="495784356" ref="index"/>
+    <file name="form_process.php" crc="4149049960" ref="index"/>
+    <file name="form-u676.php" crc="140654356" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="такси---армянск-favicon.ico" crc="119603480" ref="index"/>
+    <file name="krasivye-fotografii-15-24.jpg" crc="3788324493" ref="index"/>
+    <file name="w512h5121380376664metrouiphone.png" crc="3875568948" seo="true" ref="index"/>
+    <file name="-4(1).jpg" crc="3805674311" ref="index"/>
+    <file name="maxresdefault.jpg" crc="4055347916" ref="index"/>
+    <file name="1314353942_herson-znak1.jpg" crc="255643212" ref="index"/>
+    <file name="3ec5778c-7884-4592-b4ff-e9e85fb663f5.jpg" crc="356831997" ref="index"/>
+    <file name="original.jpg" crc="3845090417" ref="index"/>
+    <file name="610482-ieu554-fr.png" crc="3995863748" ref="index"/>
+    <file name="610482.jpg" crc="496229245" ref="index"/>
+    <file name="img_0614-ieu579-fr.png" crc="4285077134" ref="index"/>
+    <file name="img_0614.jpg" crc="214019463" ref="index"/>
+    <file name="5386200019_large.jpg" crc="4190996772" ref="index"/>
+    <file name="envelope_png18361.png" crc="102104087" seo="true" ref="index"/>
+    <file name="u677-17.png" crc="118899204" ref="index"/>
+    <file name="u677-17-r.png" crc="4087261675" ref="index"/>
+    <file name="u677-17-m.png" crc="194160106" ref="index"/>
+    <file name="u677-17-fs.png" crc="467801000" ref="index"/>
+    <file name="002-sandblasting.jpg" crc="67900022" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4177689493" seo="true" mt="1495968558300" redirect="true"/>
+</manifest>
